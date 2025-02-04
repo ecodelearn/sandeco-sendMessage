@@ -26,4 +26,4 @@ with open(csv_file_path, newline='') as csvfile:
     for row in reader:
         celular = row['numero']
         send_message(celular, msg)
-        time.sleep(5)  # Espera de 2 segundos entre os envios
+        time.sleep(5)  # Espera de 5 segundos entre os envios
