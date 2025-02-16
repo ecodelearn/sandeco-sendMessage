@@ -14,3 +14,5 @@ wheels/
 *_todos.csv
 *.mp4
 temp/*.mp4
+
+.csv
