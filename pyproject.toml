@@ -1,7 +1,7 @@
 [project]
-name = "sandecocrewai"
+name = "SandecoSendMessage"
 version = "0.1.0"
-description = "Add your description here"
+description = "Envia Mensagem para WhatsApp usando EvolutionAPI"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
